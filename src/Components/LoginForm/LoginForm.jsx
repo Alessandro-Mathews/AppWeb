@@ -5,7 +5,7 @@ import { FaLock } from "react-icons/fa";
 import { Link } from "react-router-dom";
 const LoginForm = () => {
     return (
-        <div className="Principal">
+        <body className="Principal">
         <div className="Container">
             <form action="" >
                 <h1> Login </h1>
@@ -29,7 +29,7 @@ const LoginForm = () => {
                 </div>
             </form>
         </div>
-        </div>
+        </body>
     )
 }
 

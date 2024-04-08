@@ -1,0 +1,30 @@
+.Header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #fff;
+    height: 72px;
+    padding:0, 80px;
+    align-items: center;
+}
+.title{
+    color: #fff;
+    font-size: 32px;
+    margin: 0;
+    padding: 30px, 120px;
+}
+.nav-cotainer{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.item{
+    margin-right: 1em;
+}
+.item a{
+    color: #fff;
+    text-decoration: none;
+}
+.item a:hover{
+    color:#007BFF
+}
+
