@@ -11,5 +11,17 @@ body{
     width: 30%;
     height: 40%;
     display: flex;
-    
+}
+.container-img{
+    display: flex;
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+}
+.texto1{
+    text-align: center;
+    color: #fff;  
+}
+.texto2{
+    text-align: left;
 }
